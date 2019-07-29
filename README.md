@@ -2,8 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Clicky Game React App #
 
-This app simulates the old classic game memory. Click on each of the cards without clicking the same one twice to
-earn a high score! The game will pop up a modal once you have completed playing and track the high score.
+This app simulates the old classic game memory. Click on each of the cards without clicking the same one twice to earn a high score! The game will pop up a modal once you have completed playing and track the high score.
+
+![](Screenshot.png)
 
 Can you beat it?
 
