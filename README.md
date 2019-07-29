@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Clicky Game React App #
+
+This app simulates the old classic game memory. Click on each of the cards without clicking the same one twice to
+earn a high score! The game will pop up a modal once you have completed playing and track the high score.
+
+Can you beat it?
+
+Play it now here on heroku...
+
+https://reactclickygameff.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
