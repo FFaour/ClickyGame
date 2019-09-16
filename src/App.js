@@ -45,7 +45,7 @@ class App extends Component {
       return false;
     });
   }
-  // Map over this.state.cards and render a cardCard component for each card object
+  // Map over this.state.cards and render a Card component for each card object
   render() {
     return (
       <Wrapper>
